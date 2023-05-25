@@ -1,0 +1,9 @@
+* pythonic-string-reader
+
+A simple and unintrusive read table modification inspired by Python's three quote strings.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/smithzvk/pythonic-string-reader.git |
+| commit  | 47a70ba                                                    |
+| systems | pythonic-string-reader                                     |
+|---------+------------------------------------------------------------|
